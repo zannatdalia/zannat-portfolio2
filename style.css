@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+}
+p{
+    font-size: 20px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#nameheighlight{
+    color: red;
+}
+.halfwidth{
+    margin-left: 5%;
+    padding-left: 2%;
+    width: 40%;
+    float: left;
+}
+.halfwidth img{
+ width: 100%;
+ 
+}
+.linkbutton{
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+    border-radius: 2px;
+    font-size: 15px;
+}
+section{
+        height: 600px;
+}
+.latestprojrct h1{
+    text-align: center;
+}
+.latestprojrct{
+    margin: 4%;
+    background-color: whitesmoke;
+    padding: 5px;
+}
+.onethird{
+    margin: 1%;
+    padding: 2%;
+    width: 25%;
+    float: left;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+.onethird img{
+    width: 100%;
+    height: 50%;
+}
+.chatting{
+    color: white;
+    text-align: center;
+    margin: 10%;
+    height: 150px;
+    width: 80%;
+    background: url("images/chat-bg.png");
+}
+footer{
+    text-align: center;
+    margin: 5%;
+    padding: 3%;
+}
+.footericon{
+    display: inline;
+}
+footer h3{
+    color: gray;
+}
+.footericon img{
+    height: 50px;
+    width: 50px;
+}
+
+
